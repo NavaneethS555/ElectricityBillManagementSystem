@@ -24,7 +24,7 @@ List of entries for the tables:
 
 6. Tariff
 
-![image](https://user-images.githubusercontent.com/64922494/125331503-af77d400-e365-11eb-8ca1-bb0b4afdcc8e.png)
+![image](https://user-images.githubusercontent.com/64922494/125331831-20b78700-e366-11eb-9688-5c71e26087fd.png)
 
 7. Invoice
 
