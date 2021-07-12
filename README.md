@@ -1,4 +1,4 @@
-# ElectricityBillManagementSystem
+# Electricity Bill Management System
 
 List of entries for the tables:
 
