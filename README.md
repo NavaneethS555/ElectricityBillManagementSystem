@@ -1,6 +1,16 @@
 # Electricity Bill Management System
 
+1.  ER Diagram
+
+![image](https://user-images.githubusercontent.com/64922494/126759470-a90c39af-11d0-4c68-9db0-178d8a1d9d08.png)
+
+2.  Schema Diagram
+
+![image](https://user-images.githubusercontent.com/64922494/126759647-ba58b8c2-9ec4-4ce9-be25-a595b20ea177.png)
+
+
 List of entries for the tables:
+
 
 1. Customer
 
